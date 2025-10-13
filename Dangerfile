@@ -15,6 +15,6 @@ message("📊 Lines deleted: #{git.deletions}")
 warn("⚠️ This is a test warning - Danger warnings work!")
 
 # Uncomment this to test failures:
-# fail("❌ This is a test failure - Danger failures work!")
+# fail("❌ This is a test failure - Danger failures work!") 
 
 message("🎉 All Danger checks completed!")
